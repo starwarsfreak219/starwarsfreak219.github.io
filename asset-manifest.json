@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/starwarsfreak219.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/starwarsfreak219.github.io/static/js/main.1ed96082.js",
-    "static/js/787.b22145e4.chunk.js": "/starwarsfreak219.github.io/static/js/787.b22145e4.chunk.js",
-    "static/media/logo.svg": "/starwarsfreak219.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/starwarsfreak219.github.io/index.html",
-    "main.073c9b0a.css.map": "/starwarsfreak219.github.io/static/css/main.073c9b0a.css.map",
-    "main.1ed96082.js.map": "/starwarsfreak219.github.io/static/js/main.1ed96082.js.map",
-    "787.b22145e4.chunk.js.map": "/starwarsfreak219.github.io/static/js/787.b22145e4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ed96082.js"
-  ]
+  "main.css": "/static/css/main.515b6bcd.chunk.css",
+  "main.js": "/static/js/main.8d93910f.chunk.js",
+  "main.js.map": "/static/js/main.8d93910f.chunk.js.map",
+  "static/js/1.03ae7ea8.chunk.js": "/static/js/1.03ae7ea8.chunk.js",
+  "static/js/1.03ae7ea8.chunk.js.map": "/static/js/1.03ae7ea8.chunk.js.map",
+  "static/js/2.45d599a8.chunk.js": "/static/js/2.45d599a8.chunk.js",
+  "static/js/2.45d599a8.chunk.js.map": "/static/js/2.45d599a8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.8ba30756.js",
+  "runtime~main.js.map": "/static/js/runtime~main.8ba30756.js.map",
+  "static/media/logo.svg": "/static/media/logo.06e73328.svg",
+  "static/css/main.515b6bcd.chunk.css.map": "/static/css/main.515b6bcd.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.8d3fda9a06ee04a96d62605b86ebfef9.js": "/precache-manifest.8d3fda9a06ee04a96d62605b86ebfef9.js",
+  "service-worker.js": "/service-worker.js"
 }
